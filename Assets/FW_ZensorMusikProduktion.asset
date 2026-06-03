@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf53cf59c492414ba5ce3b9941f083c, type: 3}
+  m_Name: FW_ZensorMusikProduktion
+  m_EditorClassIdentifier: Assembly-CSharp::FotowandData
+  photo: {fileID: 21300000, guid: 8b2190940c4ffcb42820a25e931becde, type: 3}
+  title: Zensor-Musik-Produktion
+  description: "A promotional flyer listing the full roster of artists under Zensor's
+    own music production label, including DIN A Testbild, frdaha p\xF8tzm*n, T4,
+    Garbage, and many more \u2014 a snapshot of the entire Zensor creative network."
+  hasExtraInfo: 1
+  extraInfoTitle: Zensor as a Record Label
+  extraInfoContent: "Beyond being a record shop, Zensor operated its own music production
+    and tape label \u2014 Zensor-Musik-Produktion. The label released cassettes and
+    records by local Berlin artists who had no other outlet for their work, covering
+    genres the founders called 'Electric Sonority', 'Tape- Production', 'Disco-Production',
+    and even 'Berlin Wall Engineering'. This DIY label model was radical for its
+    time, predating the widespread indie label boom and giving a platform to artists
+    like DIN A Testbild and Mittagspause who would later become key figures of the
+    Neue Deutsche Welle movement."
+  extraInfoImage: {fileID: 0}

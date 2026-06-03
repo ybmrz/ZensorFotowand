@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf53cf59c492414ba5ce3b9941f083c, type: 3}
+  m_Name: FW_ZensorPoster
+  m_EditorClassIdentifier: Assembly-CSharp::FotowandData
+  photo: {fileID: 21300000, guid: 80202727ad07553488c382e59fc94813, type: 3}
+  title: "Der Zensor \u2013 Sch\xF6neberg's Underground Record Store"
+  description: "This is the original promotional poster for Zensor, the legendarz
+    underground record shop at Belziger Str. 23, Sch\xF6neberg. Founded in the late
+    1970s, Zensor became the epicenter of West Berlin's punk, reggae, and electronic
+    music scene."
+  hasExtraInfo: 1
+  extraInfoTitle: About Zensor
+  extraInfoContent: "Zensor opened in West Berlin's Sch\xF6neberg district in 1977
+    and quickly became more than just a record shop. It was a meeting point for the
+    city's underground music community, stocking international rarities - punk, Rock-A-Billy,
+    reggae, and electronic music - at a time when such records were nearly impossible
+    to find elsewhere in Germany. The store also hosted live in-store concerts, making
+    it a cultural hub until its closure in 1983."
+  extraInfoImage: {fileID: 0}

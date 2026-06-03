@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf53cf59c492414ba5ce3b9941f083c, type: 3}
+  m_Name: FW_T4Garbage
+  m_EditorClassIdentifier: Assembly-CSharp::FotowandData
+  photo: {fileID: 21300000, guid: 642251a6991ec764982cf1cd7e21166f, type: 3}
+  title: "Garbage & Din A Testbild \u2013 Live at Zensor"
+  description: "A handmade flyer for an in-store concert hosted directly at Zensor,
+    featuring local experimental acts Garbage, frdaha p\xF8tzm*n (tapes & saxophone),
+    and Din A Testbild."
+  hasExtraInfo: 1
+  extraInfoTitle: In-Store Concerts at Zensor
+  extraInfoContent: "Zensor was one of the few record shops in West Berlin that regularly
+    hosted live performances on its premises. These intimate in-store shows \u2014
+    often announced only by hand-drawn flyers \u2014 became a defining feature of
+    the shop's identity. Acts like Din A Testbild and Garbage represented the raw,
+    DIY spirit of the West Berlin underground scene, blending tape music, noise,
+    and experimental performance in an era before such sounds had a mainstream platform."
+  extraInfoImage: {fileID: 0}

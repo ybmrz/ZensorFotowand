@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf53cf59c492414ba5ce3b9941f083c, type: 3}
+  m_Name: FW_MekanikDestruktiwKommandoh
+  m_EditorClassIdentifier: Assembly-CSharp::FotowandData
+  photo: {fileID: 21300000, guid: 0323463a6a48702488be66339a6a90a0, type: 3}
+  title: "M\xE9kanik Destruktiw K\xF6mmand\xF6h \u2013 Early Zensor Concert, 1979"
+  description: "One of the earliest known concert posters from Zensor, dated 3 November
+    1979. Features the avant-garde Berlin group M\xE9kanik Destruktiw K\xF6mmand\xF6h
+    alongside P/E, held at Belziger Str. 23."
+  hasExtraInfo: 1
+  extraInfoTitle: "M\xE9kanik Destruktiw K\xF6mmand\xF6h"
+  extraInfoContent: "M\xE9kanik Destruktiw K\xF6mmand\xF6h (M.D.K.) was one of the
+    most radical acts to emerge from the West Berlin underground in the late 1970s.
+    Combining industrial noise, performance art, and political provocation, they
+    embodied the chaotic energy of the city's divided, tension-filled environment.
+    Their appearances at Zensor in 1979 were among the shop's very first live events,
+    cementing Zensor's reputation as a space for music that existed outside any mainstream
+    category."
+  extraInfoImage: {fileID: 0}
