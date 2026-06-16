@@ -19,12 +19,12 @@ MonoBehaviour:
     Garbage, and many more \u2014 a snapshot of the entire Zensor creative network."
   hasExtraInfo: 1
   extraInfoTitle: Zensor as a Record Label
-  extraInfoContent: "Beyond being a record shop, Zensor operated its own music production
-    and tape label \u2014 Zensor-Musik-Produktion. The label released cassettes and
-    records by local Berlin artists who had no other outlet for their work, covering
-    genres the founders called 'Electric Sonority', 'Tape- Production', 'Disco-Production',
-    and even 'Berlin Wall Engineering'. This DIY label model was radical for its
-    time, predating the widespread indie label boom and giving a platform to artists
-    like DIN A Testbild and Mittagspause who would later become key figures of the
+  extraInfoContent: "Beyond being a record shop, Zensor operated its own music production\nand
+    tape label \u2014 Zensor-Musik-Produktion. The label released cassettes\nand
+    records by local Berlin artists who had no other outlet for their work,\ncovering
+    genres the founders called 'Electric Sonority', 'Tape- Production',\n'Disco-Production',
+    and even 'Berlin Wall Engineering'. This DIY label model\nwas radical for its
+    time, predating the widespread indie label boom and giving\na platform to artists
+    like DIN A Testbild and Mittagspause who would later become\nkey figures of the
     Neue Deutsche Welle movement."
   extraInfoImage: {fileID: 0}

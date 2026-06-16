@@ -20,11 +20,11 @@ MonoBehaviour:
   hasExtraInfo: 1
   extraInfoTitle: Underground Distribution in West Berlin
   extraInfoContent: "Blue Moon Versand was a mail-order distribution service operating
-    out of West Berlin in the early 1980s, selling records, tapes, and memorabilia
-    to subculture communities across Germany who had no local access to such material.
-    Operating alongside shops like Zensor, these informal networks were crucial in
-    spreading punk, rockabilly, and new wave culture beyond the city. The 'Rated
-    X' catalogue, copyright 1981, was aimed explicitly at outsiders and rebels \u2014
-    a direct reflection of the DIY spirit that defined West Berlin's underground
+    out of\nWest Berlin in the early 1980s, selling records, tapes, and memorabilia
+    to subculture\ncommunities across Germany who had no local access to such material.
+    Operating\nalongside shops like Zensor, these informal networks were crucial
+    in spreading\npunk, rockabilly, and new wave culture beyond the city. The 'Rated
+    X' catalogue,\ncopyright 1981, was aimed explicitly at outsiders and rebels \u2014
+    a direct reflection\nof the DIY spirit that defined West Berlin's underground
     scene."
   extraInfoImage: {fileID: 0}

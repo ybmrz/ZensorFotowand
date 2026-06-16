@@ -20,10 +20,10 @@ MonoBehaviour:
   hasExtraInfo: 1
   extraInfoTitle: Festival Genialer Dilletanten
   extraInfoContent: "The Festival Genialer Dilletanten (Festival of Genial Dilettantes)
-    was a landmark event in West Berlin's underground art and music scene. Held at
-    the Tempodrom in 1981, it brought together artists, musicians, and performers
-    who rejected professional polish in favor of raw, experimental expression. Acts
-    like Einst\xFCrzende Neubauten, who famously used industrial tools as instruments,
-    embodied the festival's ethos. The event became a defining moment for the Neue
-    Deutsche Welle and post-punk movements in Germany."
+    was a landmark\nevent in West Berlin's underground art and music scene. Held
+    at the Tempodrom in 1981,\nit brought together artists, musicians, and performers
+    who rejected professional\npolish in favor of raw, experimental expression. Acts
+    like Einst\xFCrzende Neubauten,\nwho famously used industrial tools as instruments,
+    embodied the festival's ethos.\nThe event became a defining moment for the Neue
+    Deutsche Welle and post-punk\nmovements in Germany."
   extraInfoImage: {fileID: 0}

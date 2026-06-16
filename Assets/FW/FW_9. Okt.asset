@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf53cf59c492414ba5ce3b9941f083c, type: 3}
+  m_Name: FW_9. Okt
+  m_EditorClassIdentifier: Assembly-CSharp::FotowandData
+  photo: {fileID: 21300000, guid: ffd6f7ee79716d146b73adb9d957ad8e, type: 3}
+  title: "Ex-Cess \u2013 October '80 Programme, Die Neue Musik live!"
+  description: "The October 1980 concert programme for Ex-Cess,\nKurf\xFCrstenstr.
+    101, Berlin \u2014 a key West Berlin venue for\n'Die Neue Musik'. The line-up
+    includes Fehlfarben (9.10),\nRadierer, ZK, K\xE4nguruhs im Ex-Cess, Toto-Lotto,
+    \xD6stro 430,\nWhite Russia, and Hot Java Band."
+  hasExtraInfo: 1
+  extraInfoTitle: Ex-Cess and the Neue Deutsche Welle
+  extraInfoContent: "Ex-Cess was one of West Berlin's important live venues\nduring
+    the explosion of the Neue Deutsche Welle\naround 1980. This single monthly programme
+    captures how\ndense and vital the scene was \u2014 featuring Fehlfarben,\nwhose
+    1980 album 'Monarchie und Alltag' became\none of the most celebrated German-language
+    records\never made, as well as \xD6stro 430, an all-female band from\nD\xFCsseldorf.
+    The hand-drawn, cut-and-paste design of the\nposter is typical of the DIY aesthetic
+    that defined the era's\nunderground graphics \u2014 the same spirit that shops\nlike
+    Zensor embodied."
+  extraInfoImage: {fileID: 0}

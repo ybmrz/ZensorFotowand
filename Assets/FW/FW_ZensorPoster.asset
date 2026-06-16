@@ -21,9 +21,9 @@ MonoBehaviour:
   hasExtraInfo: 1
   extraInfoTitle: About Zensor
   extraInfoContent: "Zensor opened in West Berlin's Sch\xF6neberg district in 1977
-    and quickly became more than just a record shop. It was a meeting point for the
-    city's underground music community, stocking international rarities - punk, Rock-A-Billy,
-    reggae, and electronic music - at a time when such records were nearly impossible
-    to find elsewhere in Germany. The store also hosted live in-store concerts, making
-    it a cultural hub until its closure in 1983."
+    and quickly became\nmore than just a record shop. It was a meeting point for
+    the city's underground music community,\nstocking international rarities - punk,
+    Rock-A-Billy, reggae, and electronic music\n- at a time when such records were
+    nearly impossible to find elsewhere in Germany.\nThe store also hosted live in-store
+    concerts, making it a cultural hub until its closure in 1983."
   extraInfoImage: {fileID: 0}

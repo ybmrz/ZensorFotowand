@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf53cf59c492414ba5ce3b9941f083c, type: 3}
+  m_Name: FW_JoyDivision
+  m_EditorClassIdentifier: Assembly-CSharp::FotowandData
+  photo: {fileID: 21300000, guid: b7dd11023c3b1e748aae395dc30b41c4, type: 3}
+  title: "Joy Division \u2013 On Tour, Kant Kino Berlin, 21 Januar"
+  description: 'A concert poster for Joy Division ''on Tour'', performing Monday
+
+    21
+    January at Kant Kino, Berlin, 20:00. The poster features the
+
+    now-iconic
+    pulsar wave graphic from their debut album
+
+    ''Unknown Pleasures''.'
+  hasExtraInfo: 1
+  extraInfoTitle: Joy Division in Berlin
+  extraInfoContent: "Joy Division's January 1980 Berlin concert at Kant Kino\ncame
+    during a period of intense creativity for the band,\njust before the release
+    of their second album 'Closer'.\nWest Berlin held a special significance for
+    the post-punk\ngeneration \u2014 its isolation, tension, and vibrant underground\nscene
+    made it a spiritual home for the dark, atmospheric\nsound Joy Division embodied.
+    The poster's pulsar graphic,\ntaken from 'Unknown Pleasures', has since become\none
+    of the most recognized images in music history.\nSinger Ian Curtis would die
+    in May 1980, making this\none of the last documented records of the band performing
+    in Berlin."
+  extraInfoImage: {fileID: 0}

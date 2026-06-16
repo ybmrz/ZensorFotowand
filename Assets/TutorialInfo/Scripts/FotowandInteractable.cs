@@ -24,49 +24,90 @@ public class FotowandInteractable : MonoBehaviour
     [Header("Interaction Settings")]
     [Tooltip("Key the player presses to open this Fotowand")]
     public KeyCode interactKey = KeyCode.E;
-
+    public float interactDistance = 3f;
+    
+   
     [Header("Emission color shown when the player is in range")]
     public Color outlineColor = Color.yellow;
 
     // -- internal state --
     private bool _playerInRange = false;
     private Renderer[] _renderers;
+    private Transform _player;
 
     // -- Unity lifecycle -- 
     private void Awake()
     {
         _renderers = GetComponentsInChildren<Renderer>();
         SetOutline(false);
+        _player = GameObject.FindWithTag("Player").transform;
     }
 
     private void Update()
     {
-        if (_playerInRange && Input.GetKeyDown(interactKey))
+        
+        if (_player == null) return;
+
+        float distance = Vector3.Distance(
+            GetComponent<Collider>().ClosestPoint(_player.position),
+            _player.position
+        );
+        
+        bool inRange = distance <= interactDistance;
+       
+
+        // Hint & Outline use interactDistance
+        if (inRange && !_playerInRange)
+        {
+            _playerInRange = true;
+            SetOutline(true);
+            ui.ShowHint(interactKey);
+        }
+        else if (!inRange && _playerInRange)
+        {
+            _playerInRange = false;
+            SetOutline(false);
+            ui.HideHint();
+            
+        }
+
+        //
+        if (_playerInRange && Input.GetKeyDown(KeyCode.E))
         {
             ui.Open(data);
         }
+
+       
     }
 
-    // -- Trigger detection --
-    private void OnTriggerEnter(Collider other)
-    {
-        Debug.Log("Trigger hit by: " + other.gameObject.name + " | Tag: " + other.tag);
+    //// -- Trigger detection --
+    //private void OnTriggerEnter(Collider other)
+    //{
+    //    Debug.Log("Trigger hit by: " + other.gameObject.name + " | Tag: " + other.tag);
 
-        if (!other.CompareTag("Player")) return;
+    //    if (!other.CompareTag("Player")) return;
 
-        _playerInRange = true;
-        SetOutline(true);
-        ui.ShowHint(interactKey);
-    }
+    //    _playerInRange = true;
+    //    SetOutline(true);
+    //    ui.ShowHint(interactKey);
+    //}
 
-    private void OnTriggerExit(Collider other)
-    {
-        if (!other.CompareTag("Player")) return;
+    //private void OnTriggerExit(Collider other)
+    //{
+    //    if (!other.CompareTag("Player")) return;
+    //    Debug.Log("Player EXIT trigger: " + gameObject.name);
 
-        _playerInRange = false;
-        SetOutline(false);
-        ui.HideHint();
-    }
+    //    StopAllCoroutines();
+    //    StartCoroutine(DelayedExit());
+    //}
+
+    //private System.Collections.IEnumerator DelayedExit()
+    //{
+    //    yield return new WaitForSeconds(0.2f);
+    //    _playerInRange = false;
+    //    SetOutline(false);
+    //    ui.HideHint();
+    //}
 
     // -- Outline helpers --
     private void SetOutline(bool enabled)
@@ -86,4 +127,6 @@ public class FotowandInteractable : MonoBehaviour
         }
 
     }
+
+    
 }

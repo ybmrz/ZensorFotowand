@@ -20,10 +20,9 @@ MonoBehaviour:
   hasExtraInfo: 1
   extraInfoTitle: "M\xE9kanik Destruktiw K\xF6mmand\xF6h"
   extraInfoContent: "M\xE9kanik Destruktiw K\xF6mmand\xF6h (M.D.K.) was one of the
-    most radical acts to emerge from the West Berlin underground in the late 1970s.
-    Combining industrial noise, performance art, and political provocation, they
-    embodied the chaotic energy of the city's divided, tension-filled environment.
-    Their appearances at Zensor in 1979 were among the shop's very first live events,
-    cementing Zensor's reputation as a space for music that existed outside any mainstream
-    category."
-  extraInfoImage: {fileID: 0}
+    most radical acts\nto emerge from the West Berlin underground in the late 1970s.
+    Combining\nindustrial noise, performance art, and political provocation, they
+    embodied\nthe chaotic energy of the city's divided, tension-filled environment.\nTheir
+    appearances at Zensor in 1979 were among the shop's very first live events,\ncementing
+    Zensor's reputation as a space for music that existed outside any mainstream\ncategory."
+  extraInfoImage: {fileID: 21300000, guid: 889be034cf9720b448191745c8af293f, type: 3}

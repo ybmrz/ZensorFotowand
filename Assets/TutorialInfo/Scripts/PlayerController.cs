@@ -7,29 +7,31 @@ public class PlayerController : MonoBehaviour
     public float mouseSensitivity = 2f;
 
     private float _rotationX = 0f;
+    private Transform _playerBody;
     private void Start()
     {
+        _playerBody = transform.parent;
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
     }
     private void Update()
     {
-        // Mouse look
-        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
+        // Mouse look up/down (camera only)
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
-
         _rotationX -= mouseY;
         _rotationX = Mathf.Clamp(_rotationX, -90f, 90f);
-
         transform.localRotation = Quaternion.Euler(_rotationX, 0f, 0f);
-        transform.parent.Rotate(Vector3.up * mouseX);
+
+        // Mouse look left/right (whole player body)
+        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
+        _playerBody.Rotate(Vector3.up * mouseX);
 
         // WASD movement
         float moveX = Input.GetAxis("Horizontal");
         float moveZ = Input.GetAxis("Vertical");
 
-        Vector3 move = transform.parent.right * moveX + transform.parent.forward * moveZ;
-        transform.parent.position += move * moveSpeed * Time.deltaTime;
+        Vector3 move = _playerBody.right * moveX + _playerBody.forward * moveZ;
+        _playerBody.position += move * moveSpeed * Time.deltaTime;
     }
 
     

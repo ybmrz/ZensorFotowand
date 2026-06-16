@@ -20,9 +20,9 @@ MonoBehaviour:
   hasExtraInfo: 1
   extraInfoTitle: In-Store Concerts at Zensor
   extraInfoContent: "Zensor was one of the few record shops in West Berlin that regularly
-    hosted live performances on its premises. These intimate in-store shows \u2014
-    often announced only by hand-drawn flyers \u2014 became a defining feature of
-    the shop's identity. Acts like Din A Testbild and Garbage represented the raw,
-    DIY spirit of the West Berlin underground scene, blending tape music, noise,
-    and experimental performance in an era before such sounds had a mainstream platform."
+    hosted live\nperformances on its premises. These intimate in-store shows \u2014
+    often announced only by\nhand-drawn flyers \u2014 became a defining feature of
+    the shop's identity.\nActs like Din A Testbild and Garbage represented the raw,
+    DIY spirit of the West Berlin\nunderground scene, blending tape music, noise,
+    and experimental performance in an era\nbefore such sounds had a mainstream platform."
   extraInfoImage: {fileID: 0}
