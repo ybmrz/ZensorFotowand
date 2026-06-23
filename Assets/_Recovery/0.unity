@@ -2572,7 +2572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac61bc7129ac51b4bad5badf0a8dcef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FotowandInteractable
-  data: {fileID: 11400000, guid: 988ae8e90764e654e818ba47b77945da, type: 2}
+  data: {fileID: 11400000, guid: f3aa5168df51cbc4ca3a8491ca7ce0ef, type: 2}
   ui: {fileID: 500815386}
   interactKey: 101
   interactDistance: 12

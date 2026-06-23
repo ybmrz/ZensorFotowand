@@ -14,16 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: 80202727ad07553488c382e59fc94813, type: 3}
   title: "Der Zensor \u2013 Sch\xF6neberg's Underground Record Store"
-  description: "This is the original promotional poster for Zensor, the legendarz
-    underground record shop at Belziger Str. 23, Sch\xF6neberg. Founded in the late
-    1970s, Zensor became the epicenter of West Berlin's punk, reggae, and electronic
-    music scene."
+  description: "Dies ist das originale Werbeplakat f\xFCr Zensor, den legend\xE4ren\nUnderground-Plattenladen
+    in der Belziger Stra\xDFe 23 in\nSch\xF6neberg. Zensor wurde in den sp\xE4ten
+    1970er Jahren\ngegr\xFCndet und entwickelte sich zum Epizentrum der West\nBerliner
+    Punk-, Reggae- und Elektronik-Musikszene."
   hasExtraInfo: 1
   extraInfoTitle: About Zensor
-  extraInfoContent: "Zensor opened in West Berlin's Sch\xF6neberg district in 1977
-    and quickly became\nmore than just a record shop. It was a meeting point for
-    the city's underground music community,\nstocking international rarities - punk,
-    Rock-A-Billy, reggae, and electronic music\n- at a time when such records were
-    nearly impossible to find elsewhere in Germany.\nThe store also hosted live in-store
-    concerts, making it a cultural hub until its closure in 1983."
+  extraInfoContent: "\u201EZensor\u201C er\xF6ffnete 1977 im West-Berliner Stadtteil
+    Sch\xF6neberg\nund entwickelte sich rasch zu mehr als nur einem Plattenladen.\nDer
+    Laden war ein Treffpunkt f\xFCr die Underground-Musikszene\nder Stadt und f\xFChrte
+    internationale Rarit\xE4ten \u2013 aus den\nBereichen Punk, Rockabilly, Reggae
+    und elektronische Musik \u2013,\nzu einer Zeit, als solche Platten anderswo in
+    Deutschland kaum\nzu finden waren. Zudem fanden dort Live-Konzerte im Laden\nstatt,
+    was ihn bis zu seiner Schlie\xDFung im Jahr 1983 zu einem\nkulturellen Anlaufpunkt
+    machte."
   extraInfoImage: {fileID: 0}

@@ -14,18 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: f9b58ef7c4f2691439f0c07d6f5face9, type: 3}
   title: "Throbbing Gristle \u2013 Band Portrait, 1980"
-  description: "A portrait of the four members of Throbbing Gristle \u2014 Genesis\nP-Orridge,
-    Cosey Fanni Tutti, Peter 'Sleazy' Christopherson,\nand Chris Carter \u2014 pioneers
-    of industrial music, photographed\naround 1980."
+  description: "Ein Portr\xE4t der vier Mitglieder von Throbbing Gristle \u2013 Genesis\nP-Orridge,
+    Cosey Fanni Tutti, Peter \u201ESleazy\u201C Christopherson\nund Chris Carter
+    \u2013, Pioniere der Industrial-Musik, fotografiert\num 1980."
   hasExtraInfo: 1
   extraInfoTitle: Throbbing Gristle
-  extraInfoContent: "Throbbing Gristle are widely regarded as the founders of\nindustrial
-    music. Formed in 1975 out of the performance art\ngroup COUM Transmissions, they
-    coined the term 'industrial'\nwith their label Industrial Records and its slogan
-    'industrial\nmusic for industrial people'. Their confrontational sound \u2014
-    built\nfrom tape loops, distortion, and electronics \u2014 and their\nprovocative
-    aesthetic made them deeply influential on the West\nBerlin underground. Their
-    1980 performance at S036 connected\ntwo of Europe's most vital experimental scenes,
-    and their self\nreleased live cassettes directly inspired the DIY tape philosophy\nembraced
-    by shops like Zensor."
+  extraInfoContent: "Throbbing Gristle gelten weithin als Begr\xFCnder der Industrial\nMusik.
+    Die 1975 aus der Performance-Kunst-Gruppe COUM\nTransmissions hervorgegangene
+    Band pr\xE4gte den Begriff\n\u201EIndustrial\u201C durch ihr Label Industrial
+    Records und dessen Slogan\n\u201EIndustrial Music for Industrial People\u201C.
+    Ihr konfrontativer Sound\n\u2013 basierend auf Bandschleifen, Verzerrung und
+    Elektronik \u2013\nsowie ihre provokante \xC4sthetik \xFCbten einen tiefgreifenden\nEinfluss
+    auf den West-Berliner Untergrund aus. Ihr Auftritt im\nJahr 1980 im S036 verband
+    zwei der lebendigsten europ\xE4ischen\nExperimentalszenen, und ihre im Eigenverlag
+    ver\xF6ffentlichten\nLive-Kassetten inspirierten unmittelbar die DIY-Kassetten\nPhilosophie,
+    die von L\xE4den wie Zensor aufgegriffen wurde."
   extraInfoImage: {fileID: 21300000, guid: b2abde25ac1fb3341a451eaee570a405, type: 3}

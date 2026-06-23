@@ -14,15 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: 642251a6991ec764982cf1cd7e21166f, type: 3}
   title: "Garbage & Din A Testbild \u2013 Live at Zensor"
-  description: "A handmade flyer for an in-store concert hosted directly at Zensor,
-    featuring local experimental acts Garbage, frdaha p\xF8tzm*n (tapes & saxophone),
-    and Din A Testbild."
+  description: "Ein handgemachter Flyer f\xFCr ein In-Store-Konzert direkt bei\nZensor
+    mit den lokalen Experimental-Acts Garbage, frdaha\np\xF8tzm*n (Tapes & Saxophon)
+    und Din A Testbild."
   hasExtraInfo: 1
   extraInfoTitle: In-Store Concerts at Zensor
-  extraInfoContent: "Zensor was one of the few record shops in West Berlin that regularly
-    hosted live\nperformances on its premises. These intimate in-store shows \u2014
-    often announced only by\nhand-drawn flyers \u2014 became a defining feature of
-    the shop's identity.\nActs like Din A Testbild and Garbage represented the raw,
-    DIY spirit of the West Berlin\nunderground scene, blending tape music, noise,
-    and experimental performance in an era\nbefore such sounds had a mainstream platform."
+  extraInfoContent: "Zensor war einer der wenigen Plattenl\xE4den in West-Berlin,
+    die\nregelm\xE4\xDFig Live-Auftritte in ihren R\xE4umlichkeiten veranstalteten.\nDiese
+    intimen In-Store-Konzerte \u2013 oft nur durch\nhandgezeichnete Flyer angek\xFCndigt
+    \u2013 wurden zu einem\npr\xE4genden Merkmal der Identit\xE4t des Ladens. Acts
+    wie Din A\nTestbild und Garbage verk\xF6rperten den rohen DIY-Geist der\nWest-Berliner
+    Underground-Szene und verbanden Tape-Musik,\nNoise und experimentelle Performance
+    in einer Zeit, in der\nsolche Kl\xE4nge noch keine Plattform im Mainstream hatten."
   extraInfoImage: {fileID: 0}

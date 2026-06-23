@@ -14,18 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: b275862746f4644439dc8d5b9b029e36, type: 3}
   title: "Rockmusik \u2013 Fanzine Nr. 7, M\xE4rz 1980"
-  description: "The cover of Rockmusik fanzine, issue No. 7, March 1980 \u2014 a\nWest
-    Berlin underground zine deliberately designed\nto mimic a supermarket discount
-    flyer, listing records and\nreleases as if they were grocery bargains with prices
-    in Deutschmark."
+  description: "Das Titelblatt des Fanzines \u201ERockmusik\u201C (Ausgabe Nr. 7,
+    M\xE4rz\n1980) \u2013 ein West-Berliner Underground-Magazin, das bewusst\nwie
+    ein Supermarkt-Discountprospekt gestaltet war und\nSchallplatten sowie Neuerscheinungen
+    wie Lebensmittel\nSonderangebote mit Preisen in D-Mark auflistete."
   hasExtraInfo: 1
   extraInfoTitle: Fanzines and Underground Media
-  extraInfoContent: "Before the internet, fanzines were the lifeblood of underground\nmusic
-    scenes. In West Berlin, publications like Rockmusik\nconnected fans, bands, and
-    shops in a city cut off from the rest\nof Germany. This issue's striking design
-    \u2014 mimicking the layout\nof a cheap supermarket advertisement, complete with
-    mock\nprices and 'special offers' \u2014 was a sharp piece of satire, poking\nfun
-    at consumer culture while spreading genuine music news.\nThis kind of playful,
-    photocopied DIY aesthetic was itself a\nstatement, and shops like Zensor stocked
-    and distributed such\nzines, making them media hubs as much as record stores."
+  extraInfoContent: "Vor der \xC4ra des Internets bildeten Fanzines das Lebenselixier\nder
+    Underground-Musikszene. In West-Berlin vernetzten\nPublikationen wie *Rockmusik*
+    Fans, Bands und Gesch\xE4fte in\neiner Stadt, die vom \xFCbrigen Deutschland
+    abgeschnitten war.\nDas markante Design dieser Ausgabe \u2013 das das Layout
+    billiger\nSupermarktwerbung imitierte, inklusive fingierter Preise und\n\u201ESonderangebote\u201C
+    \u2013 war eine scharfe Satire: Es nahm die\nKonsumkultur aufs Korn und verbreitete
+    zugleich echte\nNeuigkeiten aus der Musikwelt. Diese verspielte, fotokopierte\nDIY-\xC4sthetik
+    war an sich schon ein Statement; Gesch\xE4fte wie\n*Zensor* f\xFChrten und vertrieben
+    solche Zines und entwickelten\nsich dadurch ebenso sehr zu Medienknotenpunkten
+    wie zu\nPlattenl\xE4den."
   extraInfoImage: {fileID: 0}

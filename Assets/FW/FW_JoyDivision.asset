@@ -14,24 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: b7dd11023c3b1e748aae395dc30b41c4, type: 3}
   title: "Joy Division \u2013 On Tour, Kant Kino Berlin, 21 Januar"
-  description: 'A concert poster for Joy Division ''on Tour'', performing Monday
-
-    21
-    January at Kant Kino, Berlin, 20:00. The poster features the
-
-    now-iconic
-    pulsar wave graphic from their debut album
-
-    ''Unknown Pleasures''.'
+  description: "Ein Konzertplakat f\xFCr die \u201EOn Tour\u201C-Reihe von Joy Division,
+    die\nam Montag, dem 21. Januar, um 20:00 Uhr im Berliner Kant Kino\nauftraten.
+    Das Plakat zeigt die inzwischen ikonische\nPulsarwellen-Grafik ihres Deb\xFCtalbums
+    \u201EUnknown Pleasures\u201C."
   hasExtraInfo: 1
   extraInfoTitle: Joy Division in Berlin
-  extraInfoContent: "Joy Division's January 1980 Berlin concert at Kant Kino\ncame
-    during a period of intense creativity for the band,\njust before the release
-    of their second album 'Closer'.\nWest Berlin held a special significance for
-    the post-punk\ngeneration \u2014 its isolation, tension, and vibrant underground\nscene
-    made it a spiritual home for the dark, atmospheric\nsound Joy Division embodied.
-    The poster's pulsar graphic,\ntaken from 'Unknown Pleasures', has since become\none
-    of the most recognized images in music history.\nSinger Ian Curtis would die
-    in May 1980, making this\none of the last documented records of the band performing
-    in Berlin."
+  extraInfoContent: "Das Konzert von Joy Division im Berliner Kant Kino im Januar\n1980
+    fand in einer Phase intensiver Kreativit\xE4t der Band statt,\nkurz vor der Ver\xF6ffentlichung
+    ihres zweiten Albums \u201ECloser\u201C.\nWest-Berlin hatte f\xFCr die Post-Punk-Generation
+    eine\nbesondere Bedeutung \u2013 seine Isolation, die Spannung und die\nlebendige
+    Underground-Szene machten es zu einer geistigen\nHeimat f\xFCr den d\xFCsteren,
+    atmosph\xE4rischen Sound, den Joy\nDivision verk\xF6rperte. Die Pulsar-Grafik
+    des Posters, die vom\nAlbum \u201EUnknown Pleasures\u201C stammt, hat sich seither
+    zu einem\nder bekanntesten Bilder der Musikgeschichte entwickelt.\nS\xE4nger
+    Ian Curtis verstarb im Mai 1980; damit z\xE4hlt dieser\nAuftritt zu den letzten
+    dokumentierten Konzerten der Band in\nBerlin."
   extraInfoImage: {fileID: 0}

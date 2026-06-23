@@ -14,16 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: 1e9289a47760b4d4b98c61d7421a9942, type: 3}
   title: "Siouxsie & The Banshees \u2013 Tour 80, Berlin"
-  description: Concert poster for Siouxsie and the Banshees' Tour 80, Berlin 3 October
-    1980 at Neue Welt, with special guest Mania D. Notably, Zensor is listed as one
-    of the official ticket outlets (Vorverkauf).
+  description: "Konzertplakat f\xFCr die \u201ETour 80\u201C von Siouxsie and the
+    Banshees \u2013\nBerlin, 3. Oktober 1980 in der Neuen Welt, mit dem Special\nGuest
+    Mania D. Bemerkenswert ist, dass \u201EZensor\u201C als eine der\noffiziellen
+    Vorverkaufsstellen aufgef\xFChrt ist."
   hasExtraInfo: 1
   extraInfoTitle: Siouxsie and the Banshees
-  extraInfoContent: "Siouxsie and the Banshees were one of the most influential\npost-punk
-    bands to emerge from the UK in the late 1970s.\nTheir 3 October 1980 Berlin concert
-    at the Neue Welt was\npart of a major European tour. The support act Mania D.
-    were\na key Berlin band of the Neue Deutsche Welle scene.\nThe fact that Zensor
-    was listed as a ticket outlet reflects\nthe shop's central role in West Berlin's
-    music network \u2014\na trusted hub connecting local audiences with international\nunderground
-    acts."
+  extraInfoContent: "Siouxsie and the Banshees geh\xF6rten zu den einflussreichsten\nPost-Punk-Bands,
+    die in den sp\xE4ten 1970er Jahren aus\nGro\xDFbritannien hervorgingen. Ihr Konzert
+    am 3. Oktober 1980 in\nder Berliner \u201ENeuen Welt\u201C war Teil einer gro\xDFen
+    Europatournee.\nDie Vorgruppe Mania D. war eine bedeutende Berliner Band der\nNeuen
+    Deutschen Welle. Dass \u201EZensor\u201C als Vorverkaufsstelle\naufgef\xFChrt
+    war, unterstreicht die zentrale Rolle des Ladens im\nWest-Berliner Musiknetzwerk
+    \u2013 als vertraute Schnittstelle, die\ndas lokale Publikum mit internationalen
+    Underground-Acts\nverband."
   extraInfoImage: {fileID: 0}

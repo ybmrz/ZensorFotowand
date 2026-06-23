@@ -14,15 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: 0323463a6a48702488be66339a6a90a0, type: 3}
   title: "M\xE9kanik Destruktiw K\xF6mmand\xF6h \u2013 Early Zensor Concert, 1979"
-  description: "One of the earliest known concert posters from Zensor, dated 3 November
-    1979. Features the avant-garde Berlin group M\xE9kanik Destruktiw K\xF6mmand\xF6h
-    alongside P/E, held at Belziger Str. 23."
+  description: "Eines der fr\xFChesten bekannten Konzertplakate von Zensor,\ndatiert
+    auf den 3. November 1979. Es k\xFCndigt einen Auftritt der\nBerliner Avantgarde-Gruppe
+    M\xE9kanik Destruktiw K\xF6mmand\xF6h\ngemeinsam mit P/E in der Belziger Stra\xDFe
+    23 an."
   hasExtraInfo: 1
   extraInfoTitle: "M\xE9kanik Destruktiw K\xF6mmand\xF6h"
-  extraInfoContent: "M\xE9kanik Destruktiw K\xF6mmand\xF6h (M.D.K.) was one of the
-    most radical acts\nto emerge from the West Berlin underground in the late 1970s.
-    Combining\nindustrial noise, performance art, and political provocation, they
-    embodied\nthe chaotic energy of the city's divided, tension-filled environment.\nTheir
-    appearances at Zensor in 1979 were among the shop's very first live events,\ncementing
-    Zensor's reputation as a space for music that existed outside any mainstream\ncategory."
+  extraInfoContent: "M\xE9kanik Destruktiw K\xF6mmand\xF6h (M.D.K.) war einer der\nradikalsten
+    Akte Ende der 1970er Jahre aus dem West-Berliner\nUntergrund hervortreten. Kombinieren
+    Sie verk\xF6rperten\nIndustriel\xE4rm, Performancekunst und politische Provokation\ndie
+    chaotische Energie der geteilten, spannungsgeladenen\nUmgebung der Stadt. Ihre
+    Auftritte bei Zensor im Jahr 1979\ngeh\xF6rten zu den allerersten Live-Events
+    des Ladens.\nZensors Ruf als Ort f\xFCr Musik au\xDFerhalb des Mainstreams zu\nfestigen
+    Kategorie."
   extraInfoImage: {fileID: 21300000, guid: 889be034cf9720b448191745c8af293f, type: 3}

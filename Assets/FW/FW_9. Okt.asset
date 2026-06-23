@@ -14,18 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: ffd6f7ee79716d146b73adb9d957ad8e, type: 3}
   title: "Ex-Cess \u2013 October '80 Programme, Die Neue Musik live!"
-  description: "The October 1980 concert programme for Ex-Cess,\nKurf\xFCrstenstr.
-    101, Berlin \u2014 a key West Berlin venue for\n'Die Neue Musik'. The line-up
-    includes Fehlfarben (9.10),\nRadierer, ZK, K\xE4nguruhs im Ex-Cess, Toto-Lotto,
-    \xD6stro 430,\nWhite Russia, and Hot Java Band."
+  description: "Das Konzertprogramm f\xFCr Ex-Cess vom Oktober 1980,\nKurf\xFCrstenstr.
+    101, Berlin \u2013 ein wichtiger Veranstaltungsort in\nWest-Berlin \u201EDie
+    Neue Musik\u201C. Zur Besetzung geh\xF6ren\nFehlfarben (9.10), Radierer, ZK,
+    K\xE4nguruhs im Ex-Cess, Toto\nLotto, \xD6stro 430, Wei\xDFes Russland und hei\xDFe
+    Java-Band."
   hasExtraInfo: 1
   extraInfoTitle: Ex-Cess and the Neue Deutsche Welle
-  extraInfoContent: "Ex-Cess was one of West Berlin's important live venues\nduring
-    the explosion of the Neue Deutsche Welle\naround 1980. This single monthly programme
-    captures how\ndense and vital the scene was \u2014 featuring Fehlfarben,\nwhose
-    1980 album 'Monarchie und Alltag' became\none of the most celebrated German-language
-    records\never made, as well as \xD6stro 430, an all-female band from\nD\xFCsseldorf.
-    The hand-drawn, cut-and-paste design of the\nposter is typical of the DIY aesthetic
-    that defined the era's\nunderground graphics \u2014 the same spirit that shops\nlike
-    Zensor embodied."
+  extraInfoContent: "Das \u201EEx-Cess\u201C war einer der bedeutenden Live-Clubs
+    West\nBerlins w\xE4hrend des Booms der Neuen Deutschen Welle\num 1980. Dieses
+    einzelne Monatsplakat veranschaulicht,\nwie dicht und lebendig die Szene war
+    \u2013 vertreten durch\nFehlfarben, deren 1980 erschienenes Album \u201EMonarchie
+    und\nAlltag\u201C zu einer der gefeiertsten deutschsprachigen Platten\naller
+    Zeiten avancierte, sowie durch \xD6stro 430, eine\nreine Frauenband aus D\xFCsseldorf.
+    Das handgezeichnete,\nim Cut-and-Paste-Verfahren gestaltete Design des\nPlakats
+    ist typisch f\xFCr die DIY-\xC4sthetik, die die Underground\nGrafik jener \xC4ra
+    pr\xE4gte \u2013 ganz im Geiste von L\xE4den wie \u201EZensor\u201C."
   extraInfoImage: {fileID: 0}

@@ -14,16 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: 11c5b5b8d0c664045b8db0242208bfa2, type: 3}
   title: "Grosse Untergangs-Show \u2013 Festival Genialer Dilletanten, 1981"
-  description: "A flyer for the legendary 'Grosse Untergangs-Show' festival at Tempodrom,
-    Berlin, 4 September 1981 \u2014 featuring Einst\xFCrzende Neubauten, Blixa Bargeld,
-    DIN A Testbild, and many more."
+  description: "Ein Flyer zum legend\xE4ren Festival \u201EGro\xDFe Untergangs-Show\u201C
+    im\nTempodrom, Berlin, 4. September 1981 \u2013 mit Einst\xFCrzenden\nNeubauten,
+    Blixa Bargeld, DIN A Testbild und vielen mehr."
   hasExtraInfo: 1
   extraInfoTitle: Festival Genialer Dilletanten
-  extraInfoContent: "The Festival Genialer Dilletanten (Festival of Genial Dilettantes)
-    was a landmark\nevent in West Berlin's underground art and music scene. Held
-    at the Tempodrom in 1981,\nit brought together artists, musicians, and performers
-    who rejected professional\npolish in favor of raw, experimental expression. Acts
-    like Einst\xFCrzende Neubauten,\nwho famously used industrial tools as instruments,
-    embodied the festival's ethos.\nThe event became a defining moment for the Neue
-    Deutsche Welle and post-punk\nmovements in Germany."
+  extraInfoContent: "Das \u201EFestival Genialer Dilletanten\u201C war ein wegweisendes\nEreignis
+    der West-Berliner Underground-Kunst- und Musikszene.\nEs fand 1981 im Tempodrom
+    statt und versammelte K\xFCnstler,\nMusiker und Performer, die professionelle
+    Perfektion zugunsten\neines rohen, experimentellen Ausdrucks ablehnten. Bands
+    wie\ndie Einst\xFCrzenden Neubauten \u2013 bekannt f\xFCr den Einsatz von\nIndustriewerkzeugen
+    als Musikinstrumente \u2013 verk\xF6rperten das\nEthos des Festivals. Die Veranstaltung
+    wurde zu einem\npr\xE4genden Moment f\xFCr die Neue Deutsche Welle und die Post\nPunk-Bewegung
+    in Deutschland."
   extraInfoImage: {fileID: 0}

@@ -14,17 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: 83ac1cbe7d2a99b449f4d7e8d0c6387f, type: 3}
   title: "Blue Moon Versand Berlin \u2013 Rated X Catalogue, 1981"
-  description: "A mail-order catalogue cover from Blue Moon Versand, Berlin 1981
-    \u2014 a underground distribution network serving teen-age gangsters, cool-cats,
-    rockers, punks, skins, and rebels across West Germany."
+  description: "Das Titelblatt eines Versandkatalogs von Blue Moon Versand, Berlin
+    1981 \u2013 ein Untergrund-Vertriebsnetzwerk, das Teenager-Gangster, \u201ECool
+    Cats\u201C, Rocker, Punks, Skins und Rebellen in ganz Westdeutschland bediente."
   hasExtraInfo: 1
   extraInfoTitle: Underground Distribution in West Berlin
-  extraInfoContent: "Blue Moon Versand was a mail-order distribution service operating
-    out of\nWest Berlin in the early 1980s, selling records, tapes, and memorabilia
-    to subculture\ncommunities across Germany who had no local access to such material.
-    Operating\nalongside shops like Zensor, these informal networks were crucial
-    in spreading\npunk, rockabilly, and new wave culture beyond the city. The 'Rated
-    X' catalogue,\ncopyright 1981, was aimed explicitly at outsiders and rebels \u2014
-    a direct reflection\nof the DIY spirit that defined West Berlin's underground
-    scene."
+  extraInfoContent: "Blue Moon Versand war ein in den fr\xFChen 1980er Jahren von\nWest-Berlin
+    aus operierender Versandhandel, der Schallplatten,\nKassetten und Fanartikel
+    an subkulturelle Szenen in ganz\nDeutschland vertrieb, die vor Ort keinen Zugang
+    zu solchem\nMaterial hatten. Neben L\xE4den wie \u201EZensor\u201C spielten diese\ninformellen
+    Netzwerke eine entscheidende Rolle bei der\nVerbreitung der Punk-, Rockabilly-
+    und New-Wave-Kultur \xFCber\ndie Stadtgrenzen hinaus. Der Katalog \u201ERated
+    X\u201C (Copyright 1981)\nrichtete sich gezielt an Au\xDFenseiter und Rebellen
+    \u2013 ein direkter\nAusdruck jenes DIY-Geistes, der die West-Berliner\nUnderground-Szene
+    pr\xE4gte."
   extraInfoImage: {fileID: 0}
