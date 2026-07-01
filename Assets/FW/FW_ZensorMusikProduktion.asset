@@ -14,21 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: 8b2190940c4ffcb42820a25e931becde, type: 3}
   title: Zensor-Musik-Produktion
-  description: "Ein Werbeflyer, der das vollst\xE4ndige K\xFCnstleraufgebot des\nhauseigenen
-    Musiklabels von Zensor auflistet \u2013 darunter DIN A\nTestbild, frdaha p\xF8tzm*n,
-    T4, Garbage und viele mehr \u2013, ein\nAbbild des gesamten kreativen Netzwerks
-    von Zensor."
+  description: "Dieses \u201EZensor-Musik-Produktion\u201C-Poster markiert den Moment,\nin
+    dem Zensor vom Plattenladen zum eigenen Sender wurde: mit\ndem Label Zensor und
+    dem 1980 gegr\xFCndeten Sub-Label Marat\nals DIY-Produktions- und Vertriebsmaschine."
   hasExtraInfo: 1
   extraInfoTitle: Zensor as a Record Label
-  extraInfoContent: "Zensor war nicht nur ein Plattenladen, sondern betrieb auch
-    eine\neigene Musikproduktion sowie ein Kassettenlabel: Zensor Musik\nProduktion.
-    Das Label ver\xF6ffentlichte Kassetten und\nSchallplatten lokaler Berliner K\xFCnstler,
-    die anderweitig keine\nM\xF6glichkeit zur Ver\xF6ffentlichung ihrer Werke hatten;
-    dabei\nwurden Genres bedient, die von den Gr\xFCndern als \u201EElectric\nSonority\u201C,
-    \u201ETape-Production\u201C, \u201EDisco-Production\u201C und sogar\n\u201EBerlin
-    Wall Engineering\u201C bezeichnet wurden. Dieses DIY-Label\nModell war f\xFCr
-    die damalige Zeit radikal \u2013 es nahm den sp\xE4teren,\nweitverbreiteten Boom
-    der Indie-Labels vorweg und bot\nK\xFCnstlern wie DIN A Testbild und Mittagspause
-    eine Plattform,\ndie sp\xE4ter zu Schl\xFCsselfiguren der Neuen Deutschen Welle\nwerden
-    sollten."
+  extraInfoContent: "Das Poster \u201EZensor-Musik-Produktion\u201C zeigt die fr\xFChe
+    Energie von Burkhardt Seilers\nArbeit sehr direkt: kein glattes Firmenbild, sondern
+    eine handgemachte Liste von Sounds,\nProjekten und Haltungen \u2014 Tape-Production,
+    Disco Production, Berlin-Wall-Engineering,\nGum-Pop, DIN A Testbild, Mittagspause,
+    Bavarian Dub, T4, Feedback, Muzak und mehr. \nAus dem Laden in der Belziger Stra\xDFe
+    23 entwickelte sich damit nicht nur ein Ort,\nan dem Platten gefunden wurden,
+    sondern ein Ort, von dem aus Platten, Kassetten und\nIdeen in Umlauf kamen. Mit
+    Zensor als eigenem Label und Marat Records als Sub-Label\nab 1980 konnte Burkhardt
+    Musik ver\xF6ffentlichen, die f\xFCr die gro\xDFen Firmen zu roh, zu schr\xE4g\noder
+    zu fr\xFCh war. Dieser Schritt war wichtig, weil Zensor dadurch vom Kurator zum\nProduzenten
+    wurde: Der Laden filterte nicht nur den Underground, er presste ihn, kopierte\nihn,
+    verschickte ihn und machte ihn sichtbar. West-Berliner Szene, internationale
+    Kontakte,\nNew Wave, Punk, Elektronik, Industrial und Experiment liefen hier
+    nicht ordentlich\ngetrennt \u2014 sie lagen zusammen auf dem Tisch.\nGenau das
+    war die St\xE4rke.\r\n"
   extraInfoImage: {fileID: 0}

@@ -14,20 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FotowandData
   photo: {fileID: 21300000, guid: ffd6f7ee79716d146b73adb9d957ad8e, type: 3}
   title: "Ex-Cess \u2013 October '80 Programme, Die Neue Musik live!"
-  description: "Das Konzertprogramm f\xFCr Ex-Cess vom Oktober 1980,\nKurf\xFCrstenstr.
-    101, Berlin \u2013 ein wichtiger Veranstaltungsort in\nWest-Berlin \u201EDie
-    Neue Musik\u201C. Zur Besetzung geh\xF6ren\nFehlfarben (9.10), Radierer, ZK,
-    K\xE4nguruhs im Ex-Cess, Toto\nLotto, \xD6stro 430, Wei\xDFes Russland und hei\xDFe
-    Java-Band."
+  description: "EXXCESS war ein kurzlebiger West-Berliner Ort f\xFCr\nSpree-New-Wave,
+    Live-Konzerte und Multimedia-Experimente\nin der ehemaligen Diskothek \u201EFamily\u201C
+    an der Kurf\xFCrstenstra\xDFe 101."
   hasExtraInfo: 1
   extraInfoTitle: Ex-Cess and the Neue Deutsche Welle
-  extraInfoContent: "Das \u201EEx-Cess\u201C war einer der bedeutenden Live-Clubs
-    West\nBerlins w\xE4hrend des Booms der Neuen Deutschen Welle\num 1980. Dieses
-    einzelne Monatsplakat veranschaulicht,\nwie dicht und lebendig die Szene war
-    \u2013 vertreten durch\nFehlfarben, deren 1980 erschienenes Album \u201EMonarchie
-    und\nAlltag\u201C zu einer der gefeiertsten deutschsprachigen Platten\naller
-    Zeiten avancierte, sowie durch \xD6stro 430, eine\nreine Frauenband aus D\xFCsseldorf.
-    Das handgezeichnete,\nim Cut-and-Paste-Verfahren gestaltete Design des\nPlakats
-    ist typisch f\xFCr die DIY-\xC4sthetik, die die Underground\nGrafik jener \xC4ra
-    pr\xE4gte \u2013 ganz im Geiste von L\xE4den wie \u201EZensor\u201C."
+  extraInfoContent: "Am 9. Oktober 1980 spielten Fehlfarben im EXXCESS in West-Berlin,\nKurf\xFCrstenstra\xDFe
+    101 / Ecke N\xFCrnberger Stra\xDFe. Der Konzertflyer\nk\xFCndigte den Abend unter
+    dem Motto \u201EDie Neue Music live!\u201C an,\nBeginn war ab 21 Uhr. Fehlfarben
+    wurden auf dem Poster mit\nihrer neuen EMI-LP \u201EMonarchie und Alltag\u201C
+    angek\xFCndigt, einem\nder pr\xE4genden Alben der deutschsprachigen Post-Punk-
+    und\nNew-Wave-Zeit. Das EXXCESS war laut zeitgen\xF6ssischer Presse\nein neuer
+    Auftrittsort in den R\xE4umen der fr\xFCheren Diskothek\n\u201EFamily\u201C und
+    sollte k\xFCnftig Live-Konzerte und Multimedia\nExperimente zeigen. Damit geh\xF6rte
+    der Club zu jener kurzen,\nrohen West-Berliner Phase, in der L\xE4den, Keller,
+    Plattenl\xE4den\nund tempor\xE4re B\xFChnen oft wichtiger waren als gro\xDFe
+    Institutionen.\r\n"
   extraInfoImage: {fileID: 0}
